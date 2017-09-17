@@ -1,0 +1,16 @@
+d_concept_ts_agents_of_forming_ontologies1 <- definition;; 
+
+d_concept_ts_agents_of_forming_ontologies1
+=> nrel_main_idtf:
+	[Опр.(тест(агенты формирования онтологий). абсолютное понятие 1)]
+	(* <- lang_ru;; *);;
+
+d_concept_ts_agents_of_forming_ontologies1 -> rrel_key_sc_element: concept_ts_agents_of_forming_ontologies1;;
+
+d_concept_ts_agents_of_forming_ontologies1 <= nrel_sc_text_translation: 
+	...
+	(*
+	-> rrel_example: 
+		[Определение для тест(агенты формирования онтологий). абсолютное понятие 1.]
+		(* <- lang_ru;; *);;
+	*);;

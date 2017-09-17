@@ -1,0 +1,33 @@
+stat_ts_agents_of_forming_ontologies2 <- statement;; 
+
+stat_ts_agents_of_forming_ontologies2
+=> nrel_main_idtf:
+	[Утв.(тест(агенты формирования онтологий)) 2]
+	(* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Stat.(test(agents of forming ontologies)) 2]
+	(* <- lang_en;; *);
+=> nrel_idtf:
+	[Sunonym for Stat.(test(agents of forming ontologies)) 2]
+	(* <- lang_en;; *);;
+
+stat_ts_agents_of_forming_ontologies2 -> rrel_key_sc_element: 
+	concept_ts_agents_of_forming_ontologies3;
+	concept_ts_agents_of_forming_ontologies4;
+	nrel_ts_agents_of_forming_ontologies;;
+
+stat_ts_agents_of_forming_ontologies2 <= nrel_sc_text_translation: 
+	...
+	(*
+	-> rrel_example: 
+		[Утверждение 2 для тест(агенты формирования онтологий)]
+		(* <- lang_ru;; *);;
+	*);;
+
+stat_ts_agents_of_forming_ontologies2 <= nrel_sc_text_translation: 
+	...
+	(*
+	-> rrel_example: 
+		[Statement 2 for test(agents of forming ontologies)]
+		(* <- lang_en;; *);;
+	*);;

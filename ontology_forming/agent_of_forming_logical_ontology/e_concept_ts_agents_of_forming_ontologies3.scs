@@ -1,0 +1,27 @@
+e_concept_ts_agents_of_forming_ontologies3 <- explanation;; 
+
+e_concept_ts_agents_of_forming_ontologies3
+=> nrel_main_idtf:
+	[Поясн.(тест(агенты формирования онтологий). абсолютное понятие 3)]
+	(* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Expl.(test(agents of forming ontologies). absolute concept 3)]
+	(* <- lang_en;; *);;
+
+e_concept_ts_agents_of_forming_ontologies3 -> rrel_key_sc_element: concept_ts_agents_of_forming_ontologies3;;
+
+e_concept_ts_agents_of_forming_ontologies3 <= nrel_sc_text_translation: 
+	...
+	(*
+	-> rrel_example: 
+		[Пояснение для тест(агенты формирования онтологий). абсолютное понятие 3]
+		(* <- lang_ru;; *);;
+	*);;
+
+e_concept_ts_agents_of_forming_ontologies3 <= nrel_sc_text_translation: 
+	...
+	(*
+	-> rrel_example: 
+		[Explanation for test(agents of forming ontologies). absolute concept 3]
+		(* <- lang_en;; *);;
+	*);;

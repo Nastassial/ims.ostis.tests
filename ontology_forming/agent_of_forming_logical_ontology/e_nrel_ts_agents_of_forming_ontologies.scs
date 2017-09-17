@@ -1,0 +1,22 @@
+e_nrel_ts_agents_of_forming_ontologies <- explanation;; 
+
+e_nrel_ts_agents_of_forming_ontologies
+=> nrel_main_idtf:
+	[Поясн.(тест(агенты формирования онтологий). неролевое отношение*)]
+	(* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Expl.(test(agents of forming ontologies). norole relation*)]
+	(* <- lang_en;; *);
+=> nrel_idtf:
+	[Synonym for Expl.(test(agents of forming ontologies). norole relation*)]
+	(* <- lang_en;; *);;
+
+e_nrel_ts_agents_of_forming_ontologies -> rrel_key_sc_element: nrel_ts_agents_of_forming_ontologies;;
+
+e_nrel_ts_agents_of_forming_ontologies <= nrel_sc_text_translation: 
+	...
+	(*
+	-> rrel_example: 
+		[Пояснение для тест(агенты формирования онтологий). неролевое отношение]
+		(* <- lang_ru;; *);;
+	*);;
