@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/general_node" idtf="agent_of_manager_rejection_and_approval_proposals_for_editing_kb_ACTION_OF_PROJECT_TASK" shapeColor="0" id="43370048" parent="42196336" left="0" top="0" right="569.078" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="184.166" y="266.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="agent_of_manager_rejection_and_approval_proposals_for_editing_kb_USER" shapeColor="0" id="45132256" parent="42196336" left="0" top="0" right="425.938" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="184.166" y="408" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_performer" shapeColor="0" id="42271392" parent="42196336" left="0" top="0" right="91.25" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="238.222" y="328.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43895408" parent="42196336" id_b="43370048" id_e="45132256" b_x="184.166" b_y="266.5" e_x="184.166" e_y="408" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43045104" parent="42196336" id_b="42271392" id_e="43895408" b_x="238.222" b_y="328.5" e_x="-1" e_y="0" dotBBalance="0" dotEBalance="0.429132">
+            <points/>
+        </arc>
+        <contour type="" idtf="agent_of_manager_rejection_and_approval_proposals_for_editing_kb_TEST_PROPOSAL" shapeColor="0" id="42196336" parent="0" left="0" top="0" right="497.375" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10">
+            <points>
+                <point x="142.722" y="230"/>
+                <point x="142.722" y="451"/>
+                <point x="676.722" y="451"/>
+                <point x="676.722" y="227"/>
+            </points>
+        </contour>
+        <node type="node/const/general_node" idtf="agent_of_manager_rejection_and_approval_proposals_for_editing_kb_ACTION_OF_CONSIDER_PROPOSAL" shapeColor="0" id="51502464" parent="0" left="0" top="0" right="612.062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="410.722" y="112.129" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="question_initiated" shapeColor="0" id="45503824" parent="0" left="0" top="0" right="105" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="573.5" y="88.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="agent_of_manager_rejection_and_approval_proposals_for_editing_kb_USER_1" shapeColor="0" id="43672128" parent="0" left="0" top="0" right="438.938" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="532.944" y="171.129" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="action_to_consider_offered_artist_of_project_task" shapeColor="0" id="45517424" parent="0" left="0" top="0" right="276.969" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="410.722" y="45.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_proposal" shapeColor="0" id="46824224" parent="0" left="0" top="0" right="83.3438" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="281.5" y="174.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_authors" shapeColor="0" id="47215088" parent="0" left="0" top="0" right="77.2812" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="664" y="205.888" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43681296" parent="0" id_b="51502464" id_e="42196336" b_x="410.722" b_y="112.129" e_x="409.722" e_y="339" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="42195360" parent="0" id_b="42196336" id_e="43672128" b_x="409.722" b_y="339" e_x="532.944" e_y="171.129" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43894496" parent="0" id_b="45503824" id_e="51502464" b_x="573.5" b_y="88.5" e_x="410.722" e_y="112.129" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43000240" parent="0" id_b="47215088" id_e="42195360" b_x="664" b_y="205.888" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.429132">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="48530880" parent="0" id_b="45517424" id_e="51502464" b_x="410.722" b_y="45.5" e_x="410.722" e_y="112.129" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="46583808" parent="0" id_b="46824224" id_e="43681296" b_x="281.5" b_y="174.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.482424">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>

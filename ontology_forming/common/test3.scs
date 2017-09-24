@@ -21,11 +21,11 @@ TS_agents_of_forming_ontologies3
 
 fake_terminological_ontology <- sc_node_struct;;
 fake_terminological_ontology <- terminological_ontology;;
+
 fake_terminological_ontology = [* 
 	concept_ts_agents_of_forming_ontologies1 => nrel_ts_agents_of_forming_ontologies: 
 		concept_ts_agents_of_forming_ontologies3;; 
 *];;
-
 
 fake_logical_ontology <- sc_node_struct;;
 fake_logical_ontology <- logical_ontology;;
@@ -33,3 +33,4 @@ fake_logical_ontology = [*
 	concept_ts_agents_of_forming_ontologies2 => nrel_ts_agents_of_forming_ontologies: 
 		concept_ts_agents_of_forming_ontologies3;; 
 *];;
+

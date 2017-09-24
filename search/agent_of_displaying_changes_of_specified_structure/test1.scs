@@ -1,0 +1,82 @@
+ts_agent_of_displaying_changes_of_specified_structure_input_arg ->
+	TS_agent_of_displaying_changes_of_specified_structure1;;
+
+ts_agent_of_displaying_changes_of_specified_structure_input_arg <- sc_node_not_relation;;
+
+TS_agent_of_displaying_changes_of_specified_structure1 -> 
+	TS_agent_of_displaying_changes_of_specified_structure1_act1;
+	TS_agent_of_displaying_changes_of_specified_structure1_act2;;
+
+TS_agent_of_displaying_changes_of_specified_structure1 -> rrel_last_executed_action: 
+	TS_agent_of_displaying_changes_of_specified_structure1_act3;;
+
+TS_agent_of_displaying_changes_of_specified_structure1_act1 => nrel_sequence_of_actions:
+	TS_agent_of_displaying_changes_of_specified_structure1_act2;;
+TS_agent_of_displaying_changes_of_specified_structure1_act2 => nrel_sequence_of_actions:
+	TS_agent_of_displaying_changes_of_specified_structure1_act3;;
+
+TS_agent_of_displaying_changes_of_specified_structure1_act1
+<- action_to_form_a_proposal_of_project_task;
+<- question_initiated;;
+
+TS_agent_of_displaying_changes_of_specified_structure1_act1
+=> nrel_proposal: [*
+	action_to_build_new_piece_to_be_included_in_knowledge_base -> 
+	TS_agent_of_displaying_changes_of_specified_structure1_action;;
+	TS_agent_of_displaying_changes_of_specified_structure1_action
+		=> nrel_result: [*
+			subject_domain -> subject_domain_of_wolves;;
+			subject_domain_of_wolves
+			=> nrel_main_idtf:
+				[Subject domain of wolves]
+				(* <- lang_en;; *);
+			=> nrel_main_idtf:
+				[Предметная область волков]
+				(* <- lang_ru;; *);;
+		*];;
+*] (* => nrel_authors: TS_agent_of_displaying_changes_of_specified_structure_manager;; *);;
+
+TS_agent_of_displaying_changes_of_specified_structure1_act2
+<- action_to_consider_offered_artist_of_project_task;
+<- last_entity;;
+
+TS_agent_of_displaying_changes_of_specified_structure1_act2
+=> nrel_proposal: [*
+	TS_agent_of_displaying_changes_of_specified_structure1_action => nrel_performer:
+		TS_agent_of_displaying_changes_of_specified_structure_developer;;
+*] (* => nrel_authors: TS_agent_of_displaying_changes_of_specified_structure_developer;; *);;
+
+TS_agent_of_displaying_changes_of_specified_structure1_act2 => nrel_approved: 
+	TS_agent_of_displaying_changes_of_specified_structure_manager;;
+
+TS_agent_of_displaying_changes_of_specified_structure1_act3
+<- action_to_consider_proposal_for_editing_knowledge_base;
+<- question_initiated;;
+
+TS_agent_of_displaying_changes_of_specified_structure1_act3
+=> nrel_proposal: TS_agent_of_displaying_changes_of_specified_structure1_act3_proposal;;
+
+TS_agent_of_displaying_changes_of_specified_structure1_act3_proposal = [*
+	subject_domain -> subject_domain_of_wolves;;
+	subject_domain_of_wolves
+	=> nrel_main_idtf:
+		[Subject domain of wolves]
+		(* <- lang_en;; *);
+	=> nrel_main_idtf:
+		[Предметная область волков]
+		(* <- lang_ru;; *);;
+	subject_domain_of_wolves -> rrel_key_sc_element: concept_wolf;;
+*];;
+TS_agent_of_displaying_changes_of_specified_structure1_act3_proposal 
+=> nrel_authors: TS_agent_of_displaying_changes_of_specified_structure_developer;;
+
+TS_agent_of_displaying_changes_of_specified_structure1_act3
+=> nrel_sequence_of_actions:
+	TS_agent_of_displaying_changes_of_specified_structure1_action2;;
+TS_agent_of_displaying_changes_of_specified_structure1_action2
+<- last_entity;
+<- action_to_build_new_piece_to_be_included_in_knowledge_base;
+=> nrel_performer: TS_agent_of_displaying_changes_of_specified_structure_developer;;
+
+TS_agent_of_displaying_changes_of_specified_structure1_action2
+=> nrel_result: TS_agent_of_displaying_changes_of_specified_structure1_act3_proposal;;

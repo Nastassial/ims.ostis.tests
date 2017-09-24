@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/general_node" idtf="ui_user" shapeColor="0" id="42514896" parent="43501536" left="0" top="0" right="61.4062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="148.167" y="2001.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="ui_user" shapeColor="0" id="41141248" parent="43501536" left="0" top="0" right="61.4062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-315.108" y="1705.99" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="ui_user" shapeColor="0" id="42095840" parent="43501536" left="0" top="0" right="61.4062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="183.392" y="1395.32" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_USER_9" shapeColor="0" id="41084784" parent="43501536" left="0" top="0" right="502.906" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="233.225" y="1997.49" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_ACTION_7" shapeColor="0" id="41067840" parent="43501536" left="0" top="0" right="519.312" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="350.225" y="1587.16" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_AUTHOR_2" shapeColor="0" id="42078096" parent="43501536" left="0" top="0" right="525.5" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="352.391" y="1390.99" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_USER_8" shapeColor="0" id="41104128" parent="43501536" left="0" top="0" right="502.906" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-191.775" y="1587.16" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="ui_user" shapeColor="0" id="41192112" parent="43501536" left="0" top="0" right="61.4062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-191.108" y="1526.32" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/nopredmet" idtf="Classification_agent_of_finding_rejected_proposals_by_user_PROPOSAL_6" shapeColor="0" id="41204624" parent="43501536" left="0" top="0" right="542.938" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="238.058" y="1764.99" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/nopredmet" idtf="Classification_agent_of_finding_rejected_proposals_by_user_PROPOSAL_5" shapeColor="0" id="41027312" parent="43501536" left="0" top="0" right="542.938" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="351.558" y="1499.82" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_authors" shapeColor="0" id="41160368" parent="43501536" left="0" top="0" right="99.9531" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="24.7243" y="1692.32" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_approved" shapeColor="0" id="42061104" parent="43501536" left="0" top="0" right="112.688" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="85.558" y="1950.16" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_rejected" shapeColor="0" id="42178512" parent="43501536" left="0" top="0" right="103.922" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="94.891" y="1542.49" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/nopredmet" idtf="Classification_agent_of_finding_rejected_proposals_by_user_PROPOSAL_4" shapeColor="0" id="40952880" parent="43501536" left="0" top="0" right="542.938" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="352.391" y="1290.32" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_proposal" shapeColor="0" id="40916096" parent="43501536" left="0" top="0" right="107.219" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="209.225" y="1241.49" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_USER_7" shapeColor="0" id="40988560" parent="43501536" left="0" top="0" right="502.906" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="355.725" y="1099.66" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_AUTHOR_3" shapeColor="0" id="41008128" parent="43501536" left="0" top="0" right="525.5" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-318.109" y="1761.66" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="action_to_form_a_proposal_of_project_task" shapeColor="0" id="42130816" parent="43501536" left="0" top="0" right="318.688" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="237.892" y="1676.32" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="action_of_expert_of_knowledge_base" shapeColor="0" id="42132912" parent="43501536" left="0" top="0" right="276.922" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-13.9417" y="1190.66" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="action_of_finding_all_rejected_proposals_of_author" shapeColor="0" id="42150864" parent="43501536" left="0" top="0" right="379.062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="352.558" y="1646.82" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="action_of_finding_all_approved_proposals_of_author" shapeColor="0" id="42008448" parent="43501536" left="0" top="0" right="387.828" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-207.108" y="1906.82" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_proposal" shapeColor="0" id="42024688" parent="43501536" left="0" top="0" right="107.219" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="79.725" y="1834.99" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_ACTION_6" shapeColor="0" id="40969408" parent="43501536" left="0" top="0" right="519.312" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="353.391" y="1191.32" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_rejected" shapeColor="0" id="40936032" parent="43501536" left="0" top="0" right="103.922" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="413.391" y="1146.99" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_authors" shapeColor="0" id="42096384" parent="43501536" left="0" top="0" right="99.9531" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="227.892" y="1445.16" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_ACTION_8" shapeColor="0" id="41046352" parent="43501536" left="0" top="0" right="519.312" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="234.892" y="1906.16" haveBus="false" idtf_pos="3">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="ui_user" shapeColor="0" id="41177376" parent="43501536" left="0" top="0" right="61.4062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="266.058" y="1099.49" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_proposal" shapeColor="0" id="41123184" parent="43501536" left="0" top="0" right="107.219" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="221.725" y="1542.66" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_ACTION_10" shapeColor="0" id="40899312" parent="43501536" left="0" top="0" right="528.344" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-431.833" y="1154.83" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_rejected" shapeColor="0" id="40065168" parent="43501536" left="0" top="0" right="103.922" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-365.167" y="1210.83" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_USER_7" shapeColor="0" id="39757008" parent="43501536" left="0" top="0" right="502.906" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-431.833" y="1266.83" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_authors" shapeColor="0" id="42202112" parent="43501536" left="0" top="0" right="99.9531" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="212.558" y="1330.99" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="41749632" parent="43501536" id_b="42514896" id_e="41084784" b_x="148.167" b_y="2001.5" e_x="233.225" e_y="1997.49" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43491296" parent="43501536" id_b="40899312" id_e="42219072" b_x="-431.833" b_y="1154.83" e_x="-431.833" e_y="957.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43489248" parent="43501536" id_b="41067840" id_e="41027312" b_x="350.225" b_y="1587.16" e_x="351.558" e_y="1499.82" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43483104" parent="43501536" id_b="41046352" id_e="41084784" b_x="234.892" b_y="1906.16" e_x="233.225" e_y="1997.49" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43486176" parent="43501536" id_b="40969408" id_e="40988560" b_x="353.391" b_y="1191.32" e_x="355.725" e_y="1099.66" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43487200" parent="43501536" id_b="41067840" id_e="41104128" b_x="350.225" b_y="1587.16" e_x="-191.775" e_y="1587.16" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43490272" parent="43501536" id_b="40969408" id_e="40952880" b_x="353.391" b_y="1191.32" e_x="352.391" e_y="1290.32" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43484128" parent="43501536" id_b="41046352" id_e="41204624" b_x="234.892" b_y="1906.16" e_x="238.058" e_y="1764.99" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43485152" parent="43501536" id_b="40952880" id_e="42078096" b_x="352.391" b_y="1290.32" e_x="352.391" e_y="1390.99" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43488224" parent="43501536" id_b="41027312" id_e="42078096" b_x="351.558" b_y="1499.82" e_x="352.391" e_y="1390.99" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43482080" parent="43501536" id_b="41204624" id_e="41008128" b_x="238.058" b_y="1764.99" e_x="-318.109" e_y="1761.66" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43456608" parent="43501536" id_b="40916096" id_e="43490272" b_x="209.225" b_y="1241.49" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.505334">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43450480" parent="43501536" id_b="42008448" id_e="41046352" b_x="-207.108" b_y="1906.82" e_x="234.892" e_y="1906.16" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43452512" parent="43501536" id_b="41192112" id_e="41104128" b_x="-191.108" b_y="1526.32" e_x="-191.775" e_y="1587.16" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="42237248" parent="43501536" id_b="41160368" id_e="43482080" b_x="24.7243" b_y="1692.32" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.379017">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43457632" parent="43501536" id_b="40936032" id_e="43486176" b_x="413.391" b_y="1146.99" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.468889">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43460704" parent="43501536" id_b="42178512" id_e="43487200" b_x="94.891" b_y="1542.49" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.468889">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43454560" parent="43501536" id_b="42095840" id_e="42078096" b_x="183.392" b_y="1395.32" e_x="352.391" e_y="1390.99" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="42220800" parent="43501536" id_b="41141248" id_e="41008128" b_x="-315.108" b_y="1705.99" e_x="-318.109" e_y="1761.66" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43445408" parent="43501536" id_b="42130816" id_e="41067840" b_x="237.892" b_y="1676.32" e_x="350.225" e_y="1587.16" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="42220304" parent="43501536" id_b="41177376" id_e="40988560" b_x="266.058" b_y="1099.49" e_x="355.725" e_y="1099.66" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43455584" parent="43501536" id_b="42132912" id_e="40969408" b_x="-13.9417" b_y="1190.66" e_x="353.391" e_y="1191.32" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43458656" parent="43501536" id_b="42096384" id_e="43488224" b_x="227.892" b_y="1445.16" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.521699">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43459680" parent="43501536" id_b="41123184" id_e="43489248" b_x="221.725" b_y="1542.66" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.505334">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43451488" parent="43501536" id_b="42061104" id_e="43483104" b_x="85.558" b_y="1950.16" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.468889">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43453536" parent="43501536" id_b="42202112" id_e="43485152" b_x="212.558" b_y="1330.99" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.379017">
+            <points/>
+        </arc>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43481184" parent="43501536" id_b="40899312" id_e="39757008" b_x="-431.833" b_y="1154.83" e_x="-431.833" e_y="1266.83" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43461728" parent="43501536" id_b="42150864" id_e="41067840" b_x="352.558" b_y="1646.82" e_x="350.225" e_y="1587.16" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43442320" parent="43501536" id_b="42024688" id_e="43484128" b_x="79.725" b_y="1834.99" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.505334">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43436080" parent="43501536" id_b="40065168" id_e="43481184" b_x="-365.167" b_y="1210.83" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.482004">
+            <points/>
+        </arc>
+        <contour type="" idtf="Classification_agent_of_finding_rejected_proposals_by_user_CONTEXT_2" shapeColor="193" id="43501536" parent="0" left="0" top="0" right="532.188" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10">
+            <points>
+                <point x="-505.333" y="1038"/>
+                <point x="-505.333" y="2072"/>
+                <point x="1178.67" y="2072"/>
+                <point x="1174.67" y="1032"/>
+            </points>
+        </contour>
+        <node type="node/const/general_node" idtf="ui_user" shapeColor="0" id="43408960" parent="0" left="0" top="0" right="61.4062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-247.833" y="611.833" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_AUTHOR_2" shapeColor="0" id="43391824" parent="0" left="0" top="0" right="525.5" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-250.834" y="667.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_authors" shapeColor="0" id="43383152" parent="0" left="0" top="0" right="99.9531" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="91.9993" y="598.167" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="ui_user" shapeColor="0" id="43366560" parent="0" left="0" top="0" right="61.4062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="333.333" y="5.33333" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="ui_user" shapeColor="0" id="43348352" parent="0" left="0" top="0" right="61.4062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-123.833" y="432.167" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="action_of_finding_all_approved_proposals_of_author" shapeColor="0" id="43336416" parent="0" left="0" top="0" right="387.828" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-139.833" y="812.667" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_proposal" shapeColor="0" id="43305904" parent="0" left="0" top="0" right="107.219" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="147" y="740.833" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_approved" shapeColor="0" id="43305424" parent="0" left="0" top="0" right="112.688" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="152.833" y="856" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_ACTION_3" shapeColor="0" id="43278624" parent="0" left="0" top="0" right="519.312" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="420.666" y="97.1657" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="ui_user" shapeColor="0" id="43253248" parent="0" left="0" top="0" right="61.4062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="250.667" y="301.166" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_authors" shapeColor="0" id="43236496" parent="0" left="0" top="0" right="99.9531" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="295.167" y="350.999" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_rejected" shapeColor="0" id="43236192" parent="0" left="0" top="0" right="103.922" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="480.666" y="52.8327" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_proposal" shapeColor="0" id="42519088" parent="0" left="0" top="0" right="107.219" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="276.5" y="147.333" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="action_to_form_a_proposal_of_project_task" shapeColor="0" id="42501376" parent="0" left="0" top="0" right="318.688" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="305.167" y="582.167" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="action_of_expert_of_knowledge_base" shapeColor="0" id="42482992" parent="0" left="0" top="0" right="276.922" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="53.3333" y="96.4997" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="action_of_finding_all_rejected_proposals_of_author" shapeColor="0" id="42479872" parent="0" left="0" top="0" right="379.062" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="419.833" y="552.667" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_rejected" shapeColor="0" id="42462880" parent="0" left="0" top="0" right="103.922" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="162.166" y="448.333" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_proposal" shapeColor="0" id="42445888" parent="0" left="0" top="0" right="107.219" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="478" y="450.499" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_authors" shapeColor="0" id="42413040" parent="0" left="0" top="0" right="99.9531" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="279.833" y="236.833" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_ACTION_4" shapeColor="0" id="42412736" parent="0" left="0" top="0" right="519.312" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="417.5" y="493" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_USER_8" shapeColor="0" id="42374512" parent="0" left="0" top="0" right="502.906" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-124.5" y="492.999" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_USER_7" shapeColor="0" id="42355616" parent="0" left="0" top="0" right="502.906" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="423" y="5.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_ACTION_5" shapeColor="0" id="42294304" parent="0" left="0" top="0" right="519.312" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="302.167" y="812" haveBus="false" idtf_pos="3">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/nopredmet" idtf="Classification_agent_of_finding_rejected_proposals_by_user_PROPOSAL_1" shapeColor="0" id="42331216" parent="0" left="0" top="0" right="542.938" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="419.666" y="196.166" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/nopredmet" idtf="Classification_agent_of_finding_rejected_proposals_by_user_PROPOSAL_2" shapeColor="0" id="42312064" parent="0" left="0" top="0" right="542.938" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="418.833" y="405.667" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/nopredmet" idtf="Classification_agent_of_finding_rejected_proposals_by_user_PROPOSAL_3" shapeColor="0" id="42275088" parent="0" left="0" top="0" right="542.938" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="305.333" y="670.833" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_AUTHOR_1" shapeColor="0" id="42258800" parent="0" left="0" top="0" right="525.5" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="419.666" y="296.833" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Classification_agent_of_finding_rejected_proposals_by_user_USER_8" shapeColor="0" id="42256480" parent="0" left="0" top="0" right="502.906" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="300.5" y="903.333" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_proposal" shapeColor="0" id="42221872" parent="0" left="0" top="0" right="107.219" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-355.833" y="1010.83" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/nopredmet" idtf="Classification_agent_of_finding_rejected_proposals_by_user_PROPOSAL_7" shapeColor="0" id="42219072" parent="0" left="0" top="0" right="542.938" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-431.833" y="957.5" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43500512" parent="0" id_b="42275088" id_e="43391824" b_x="305.333" b_y="670.833" e_x="-250.834" e_y="667.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43499488" parent="0" id_b="42294304" id_e="42256480" b_x="302.167" b_y="812" e_x="300.5" e_y="903.333" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43498464" parent="0" id_b="42294304" id_e="42275088" b_x="302.167" b_y="812" e_x="305.333" e_y="670.833" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43497440" parent="0" id_b="42331216" id_e="42258800" b_x="419.666" b_y="196.166" e_x="419.666" e_y="296.833" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43496416" parent="0" id_b="43278624" id_e="42355616" b_x="420.666" b_y="97.1657" e_x="423" e_y="5.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43495392" parent="0" id_b="42412736" id_e="42374512" b_x="417.5" b_y="493" e_x="-124.5" e_y="492.999" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43494368" parent="0" id_b="42312064" id_e="42258800" b_x="418.833" b_y="405.667" e_x="419.666" e_y="296.833" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43493344" parent="0" id_b="42412736" id_e="42312064" b_x="417.5" b_y="493" e_x="418.833" e_y="405.667" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="43492320" parent="0" id_b="43278624" id_e="42331216" b_x="420.666" b_y="97.1657" e_x="419.666" e_y="196.166" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43480160" parent="0" id_b="43408960" id_e="43391824" b_x="-247.833" b_y="611.833" e_x="-250.834" e_y="667.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43479136" parent="0" id_b="43383152" id_e="43500512" b_x="91.9993" b_y="598.167" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.379017">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43478112" parent="0" id_b="43336416" id_e="42294304" b_x="-139.833" b_y="812.667" e_x="302.167" e_y="812" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43477088" parent="0" id_b="43305904" id_e="43498464" b_x="147" b_y="740.833" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.505334">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43476064" parent="0" id_b="43305424" id_e="43499488" b_x="152.833" b_y="856" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.468889">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43475040" parent="0" id_b="43348352" id_e="42374512" b_x="-123.833" b_y="432.167" e_x="-124.5" e_y="492.999" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43474016" parent="0" id_b="43366560" id_e="42355616" b_x="333.333" b_y="5.33333" e_x="423" e_y="5.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43472992" parent="0" id_b="42501376" id_e="42412736" b_x="305.167" b_y="582.167" e_x="417.5" e_y="493" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43471968" parent="0" id_b="42413040" id_e="43497440" b_x="279.833" b_y="236.833" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.379017">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43470880" parent="0" id_b="43253248" id_e="42258800" b_x="250.667" b_y="301.166" e_x="419.666" e_y="296.833" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43469920" parent="0" id_b="42482992" id_e="43278624" b_x="53.3333" b_y="96.4997" e_x="420.666" e_y="97.1657" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43468896" parent="0" id_b="42519088" id_e="43492320" b_x="276.5" b_y="147.333" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.505334">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43467872" parent="0" id_b="43236192" id_e="43496416" b_x="480.666" b_y="52.8327" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.468889">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43466848" parent="0" id_b="43236496" id_e="43494368" b_x="295.167" b_y="350.999" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.521699">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43465824" parent="0" id_b="42445888" id_e="43493344" b_x="478" b_y="450.499" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.505334">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43464800" parent="0" id_b="42462880" id_e="43495392" b_x="162.166" b_y="448.333" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.468889">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43463776" parent="0" id_b="42479872" id_e="42412736" b_x="419.833" b_y="552.667" e_x="417.5" e_y="493" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="43462752" parent="0" id_b="42221872" id_e="43491296" b_x="-355.833" b_y="1010.83" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.751351">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>
