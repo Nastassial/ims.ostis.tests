@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/general_node" idtf="agent_of_checking_key_sc_elements_of_the_semantic_neighborhoods_node_4" shapeColor="0" id="39761808" parent="42313104" left="0" top="0" right="570.531" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="228.169" y="319.718" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="agent_of_checking_key_sc_elements_of_the_semantic_neighborhoods_node_1" shapeColor="0" id="40856656" parent="42313104" left="0" top="0" right="570.531" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="410" y="204" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="agent_of_checking_key_sc_elements_of_the_semantic_neighborhoods_node_2" shapeColor="0" id="43089136" parent="42313104" left="0" top="0" right="570.531" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="276" y="262" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="agent_of_checking_key_sc_elements_of_the_semantic_neighborhoods_node_3" shapeColor="0" id="42311008" parent="42313104" left="0" top="0" right="570.531" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="294" y="350" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <contour type="" idtf="agent_of_checking_key_sc_elements_of_the_semantic_neighborhoods_structure" shapeColor="0" id="42313104" parent="0" left="0" top="0" right="586.688" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10">
+            <points>
+                <point x="200" y="148"/>
+                <point x="210" y="414"/>
+                <point x="678" y="398"/>
+                <point x="668" y="138"/>
+            </points>
+        </contour>
+        <node type="node/const/nopredmet" idtf="agent_of_checking_key_sc_elements_of_the_semantic_neighborhoods_without_problem" shapeColor="193" id="43255184" parent="0" left="0" top="0" right="642.219" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="232.632" y="-65.2632" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="task_question" shapeColor="0" id="43153088" parent="0" left="0" top="0" right="109.766" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="106.829" y="350.804" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="definition" shapeColor="0" id="42061792" parent="0" left="0" top="0" right="78.2656" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="115.534" y="268.458" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="semantic_neighborhood" shapeColor="0" id="43093680" parent="0" left="0" top="0" right="183.031" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="81.7895" y="196.632" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="agent_of_checking_key_sc_elements_of_the_semantic_neighborhoods_wrong_structure" shapeColor="0" id="42167568" parent="0" left="0" top="0" right="639.062" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="239.437" y="467.606" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="agent_of_checking_key_sc_elements_of_the_semantic_neighborhoods_sc_element2" shapeColor="0" id="43157552" parent="0" left="0" top="0" right="609.562" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="264.31" y="53.9155" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="agent_of_checking_key_sc_elements_of_the_semantic_neighborhoods_sc_element1" shapeColor="0" id="40941040" parent="0" left="0" top="0" right="609.562" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="419.887" y="-13.4366" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/attribute" idtf="rrel_key_sc_element" shapeColor="0" id="39769344" parent="0" left="0" top="0" right="154.469" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="329.211" y="106" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="39212176" parent="0" id_b="43255184" id_e="43089136" b_x="232.632" b_y="-65.2632" e_x="276" e_y="262" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="39763600" parent="0" id_b="43255184" id_e="40856656" b_x="232.632" b_y="-65.2632" e_x="410" e_y="204" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="42172352" parent="0" id_b="43093680" id_e="40856656" b_x="81.7895" b_y="196.632" e_x="410" e_y="204" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="40474704" parent="0" id_b="43153088" id_e="42311008" b_x="106.829" b_y="350.804" e_x="294" e_y="350" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="45433904" parent="0" id_b="42061792" id_e="43089136" b_x="115.534" b_y="268.458" e_x="276" e_y="262" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="42018752" parent="0" id_b="43089136" id_e="43157552" b_x="276" b_y="262" e_x="264.31" e_y="53.9155" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="41356448" parent="0" id_b="40856656" id_e="40941040" b_x="410" b_y="204" e_x="419.887" e_y="-13.4366" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="39562080" parent="0" id_b="39769344" id_e="41356448" b_x="329.211" b_y="106" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.464405">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="41092944" parent="0" id_b="39769344" id_e="42018752" b_x="329.211" b_y="106" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.785721">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>
