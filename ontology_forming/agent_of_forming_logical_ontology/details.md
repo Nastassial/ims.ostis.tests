@@ -1,9 +1,3 @@
-#Specific tests
-
-##Test 1
-Input argument: valid subject domain with 2 key sc-elements (`nrel_ts_agents_of_forming_ontologies`, `d_concept_ts_agents_of_forming_ontologies4`).
-Note: It is small test that contains subject domain with two concepts that had the largest described logical semantic neighborhoods. It covers all basic test cases.
-
 #Logical statements
 
 ##Definitions

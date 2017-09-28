@@ -1,6 +1,0 @@
-TS_agent_of_forming_logical_ontology1
-<- sc_node_struct;
-<- subject_domain;
--> rrel_key_sc_elements:
-	nrel_ts_agents_of_forming_ontologies;
-	concept_ts_agents_of_forming_ontologies4;;
