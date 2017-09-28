@@ -11,7 +11,7 @@ d_concept_ts_agents_of_forming_ontologies4
 	[Synonym for Def.(test(agents of forming ontologies). absolute concept 4)]
 	(* <- lang_en;; *);;
 
-d_concept_ts_agents_of_forming_ontologies4 -> rrel_key_sc_element: concept_ts_agents_of_forming_ontologies1;;
+d_concept_ts_agents_of_forming_ontologies4 -> rrel_key_sc_element: concept_ts_agents_of_forming_ontologies4;;
 
 d_concept_ts_agents_of_forming_ontologies4 <= nrel_sc_text_translation: 
 	...
