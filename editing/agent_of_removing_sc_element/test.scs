@@ -1,0 +1,39 @@
+TS_agent_of_removing_sc_element_struct = [*
+
+	TS_agent_of_removing_sc_element <- subject_domain;;
+
+	TS_agent_of_removing_sc_element
+	=> nrel_main_idtf:
+		[тест(агент удаления sc-элемента)]
+		(*
+		<- lang_ru;;
+		<= nrel_main_idtf: TS_agent_of_removing_sc_element2;;
+		*);
+	=> nrel_main_idtf:
+		[test(agent of removing sc-element)]
+		(* <- lang_en;; *);
+
+	=> nrel_idtf:
+		[тест(агент удаления sc-элемента) синоним]
+		(* <- lang_ru;; *);
+	=> nrel_idtf:
+		[test(agent of removing sc-element) synonym]
+		(* 
+		<- lang_en;;
+		<= nrel_idtf: TS_agent_of_removing_sc_element2;;
+		*);;
+
+	TS_agent_of_removing_sc_element
+	<- rrel_key_sc_element:
+	...
+	(*
+	<- explanation;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		-> rrel_example:
+			[Expl.(test(agent of removing sc-element))] (* <- lang_en;; *);;
+		*);;
+	*);;
+
+*];;
