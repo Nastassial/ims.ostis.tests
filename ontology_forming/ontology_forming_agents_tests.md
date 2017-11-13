@@ -10,6 +10,9 @@ Expected result: validation message "Wrong parameter! Node supplied as a paramet
 ##Test 3
 Input argument: subject domain with fake ontologies.
 Expected result: agent should remove fake ontology and form new.
+##Test 4
+Input argument: subject domain without specified key sc-elements.
+Expected result: agent should form ontology without elements.
 
 #Note
  - There is declaration of common key elements for subject domain to test in `common_key_sc_elements.scs` file.

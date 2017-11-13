@@ -1,0 +1,36 @@
+d_concept_ts_agents_of_forming_ontologies4 <- definition;; 
+
+d_concept_ts_agents_of_forming_ontologies4
+=> nrel_main_idtf:
+	[Опр.(тест(агенты формирования онтологий). абсолютное понятие 4)]
+	(* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Def.(test(agents of forming ontologies). absolute concept 4)]
+	(* <- lang_en;; *);
+=> nrel_idtf:
+	[Synonym for Def.(test(agents of forming ontologies). absolute concept 4)]
+	(* <- lang_en;; *);;
+
+d_concept_ts_agents_of_forming_ontologies4 -> rrel_key_sc_element: concept_ts_agents_of_forming_ontologies4;;
+
+d_concept_ts_agents_of_forming_ontologies4 <= nrel_sc_text_translation: 
+	...
+	(*
+	-> rrel_example: 
+		[Определение для тест(агенты формирования онтологий). абсолютное понятие 4]
+		(* <- lang_ru;; *);;
+	*);;
+
+d_concept_ts_agents_of_forming_ontologies4 <= nrel_sc_text_translation: 
+	...
+	(*
+	-> rrel_example: 
+		[Definition for test(agents of forming ontologies). absolute concept 4]
+		(* <- lang_en;; *);;
+	*);;
+
+d_concept_ts_agents_of_forming_ontologies4 <= nrel_using_constants:
+	{
+	concept_ts_agents_of_forming_ontologies2;
+	nrel_ts_agents_of_forming_ontologies
+	};; 

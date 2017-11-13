@@ -1,0 +1,11 @@
+e_rrel_ts_agents_of_forming_ontologies <- explanation;; 
+
+e_rrel_ts_agents_of_forming_ontologies
+=> nrel_main_idtf:
+	[Поясн.(тест(агенты формирования онтологий). неролевое отношение')]
+	(* <- lang_ru;; *);
+=> nrel_main_idtf:
+	[Expl.(test(agents of forming ontologies). norole relation')]
+	(* <- lang_en;; *);;
+
+e_rrel_ts_agents_of_forming_ontologies -> rrel_key_sc_element: rrel_ts_agents_of_forming_ontologies;;
